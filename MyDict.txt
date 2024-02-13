@@ -2,3 +2,4 @@ deciduous: 	  that loses its leaves every year.
 perennial:    continuing for a very long time; happening again and again.
 germinate:    start to grow.
 seldom:       not often.
+efficacious:  effective (of things not of people)
