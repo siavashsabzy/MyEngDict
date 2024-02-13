@@ -1,1 +1,3 @@
-deciduous: 	that loses its leaves every year
+deciduous: 	  that loses its leaves every year.
+perennial:    continuing for a very long time; happening again and again.
+germinate:    start to grow.
