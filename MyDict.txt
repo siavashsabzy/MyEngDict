@@ -4,3 +4,4 @@ germinate:    start to grow.
 seldom:       not often.
 efficacious:  effective (of things not of people)
 contend:      to say that something is true, especially in an argument; to compete againt somebody in order to gain something.
+exotic:       from or in another country, especially a tropical one.
