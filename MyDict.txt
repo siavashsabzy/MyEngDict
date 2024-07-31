@@ -8,3 +8,4 @@ exotic:       from or in another country, especially a tropical one.
 escalate:     to become or make something greater, worse or more seriouse etc.
 irrevocable:  that cannot be changed.
 mend:         to repair sth that has been broken or injured so that it can be used again.
+vless://bc737587-9e47-47b3-e32a-babd525633f9@202.133.89.180:6043?security=none&encryption=none&headerType=none&type=quic&quicSecurity=none&key=#6043
